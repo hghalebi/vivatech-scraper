@@ -13,7 +13,7 @@ Get the latest scraped data directly:
 - **[Download Speakers CSV](https://raw.githubusercontent.com/hghalebi/vivatech-scraper/main/vivatech_speakers_2025_extended.csv)** (725+ speakers)
 - **[Download Partners CSV](https://raw.githubusercontent.com/hghalebi/vivatech-scraper/main/vivatech_partners_2025.csv)** (2,884 companies)
 
-*Last updated: January 2025*
+
 
 ## 📊 What It Extracts
 
